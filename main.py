@@ -15,7 +15,7 @@ def is_even(value):
 
 
 # TASK 2 - к сожалению придумал только один способ реализации
-class FIFOTwo:
+class Queue:
     '''
     param maxlen: Determines the maximum queue length
     '''
